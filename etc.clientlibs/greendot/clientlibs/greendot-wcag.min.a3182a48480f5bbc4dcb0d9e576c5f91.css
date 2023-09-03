@@ -1,0 +1,56 @@
+.unlimited-sticky .gdsticky-cta__cta1 a,.sitenav-2 .unlimited-sitenav .nav-wrap .flex-row .get-an-account .gd-home-2{font-size:11px}
+a{color:green}
+a:hover,a:focus{color:black}
+.sitenav.b2b-sitenav .site-navigation a.currentParent,.sitenav.b2b-sitenav .site-navigation a.current{color:darkgreen}
+.infographic-table .circle,.infographic-table-mobile .circle{display:none}
+.gd-static-content-infographic .infographic-table .subtext,.gd-static-content-infographic .infographic-table-mobile .subtext{display:block}
+.infographic-table-mobile .row{margin-bottom:20px}
+.sitenav.b2b-sitenav .site-navigation .desktop-wrap .gd-nav .gd-nav-main .gd-main a.gd-main-link{border-radius:0;background:green;opacity:1;font-size:13px;padding:0 30px !important}
+.sitenav.b2b-sitenav .site-navigation .desktop-wrap .gd-nav .gd-nav-main .gd-main:first-child a{color:green;background:#e5f2da}
+.gd-faqs-list__question>a{text-decoration:none}
+.sitenav.b2b-sitenav .site-navigation .desktop-wrap .gd-nav .gd-nav-main .gd-main:first-child a{color:darkgreen}
+.gd-standard-hero-b2b .hero{color:black}
+* .green-color,.gd-content-card .green-color{color:green}
+.btn--primary-white-text-green-solid:hover,.btn--primary-white-text-green-solid:active,.btn--primary-white-text-green-solid:focus{border-color:green;background-color:#fff;color:green}
+.newsletterform .cmp-form-button:hover{border:1px solid navyblue;color:black;background:transparent;transition:all .2s}
+.newsletterform .cmp-form-button{Border:1px solid white;color:white;background:royalblue;transition:all .3s}
+.btn--primary-white-text-green-solid{border-radius:0;border-color:green;background-color:green;color:#fff;text-transform:unset}
+footer.b2b-footer ::before{background-color:#3a3a3a}
+body a,body a u{color:black;text-decoration:underline}
+body a:hover,body a:hover u{color:#000;text-decoration:none}
+body a.site-navigation__item-link,footer a:hover,a.site-navigation__secondary-link:hover{color:#fff}
+.gd-block-quote blockquote:before,.gd-block-quote p:before,.gd-block-quote blockquote:after,.gd-block-quote p:after{color:green}
+::selection{background:#fff;color:#000}
+.gd-content-card .green-color,.btn--link-black{color:#000;border:0}
+a.btn.gd-home-2{color:#000;background:#beebce}
+.gd-text-script-green.gd-handwriting{color:inherit;text-shadow:none}
+.btn--link-black:hover,.btn--link-black:focus{border:0;color:black}
+.page.basicpage.for-people-2.three-percent .gd-content-card__text.gd-text-regular a>u{color:#475680}
+.highlight-sheet .table-item .table-listItem .highlight_text p:nth-of-type(2){font-size:11px !important}
+.l-block-quotes-text{font-size:22px;display:inline-block;padding-left:10px}
+a[class^="social-icon"]{display:inline-block;padding:0;margin:0 10px 0 0;height:25px;width:25px;background-position:center;background-size:contain;background-repeat:no-repeat;text-indent:-9999px;transition:all .5s}
+a[class^="social-icon-"]:hover{background:#3a3a3a}
+.social-icon .logo,.social-icon .hover,.device-button .logo,.device-button .hover{padding:0;margin:0 10px 0 0;height:25px;width:25px;background-position:center;background-size:contain;background-repeat:no-repeat}
+.social-icon .hover,.device-button .hover{display:none}
+.social-icon .logo,.device-button .logo{display:block}
+.social-icon:hover .logo,.device-button:hover .logo{display:none}
+.social-icon:hover .hover,.device-button:hover .hover{display:block}
+.for-business nav{color:#000;background:#fff}
+.for-business a.site-navigation__item-link.gd-main-link.active{background:#000 !important;color:#81bf4a !important}
+.for-business a.site-navigation__item-link.gd-main-link.inactive{background:#000 !important;color:#fff !important}
+.site-navigation__item.gd-main:nth-of-type(1):focus-within{border:1px solid green}
+.for-business .hero{color:#000;background:#81bf4a}
+.for-business .btn,.for-business .cmp-form-button,.for-business .developers-link{color:#000;background:#beebce}
+.for-business .gd-layout-container.navyBG{background:#223e95}
+.for-business footer,.for-business footer:before{background:none #3a3a3a}
+.for-business .gd-text-regular.current{color:green;border:0}
+.for-business footer.b2b-footer{border:0}
+#mailtoLink{visibility:hidden}
+.sitenav.b2b-sitenav .site-navigation a.currentParent,.sitenav.b2b-sitenav .site-navigation a.current{color:#fff}
+@media only screen and (min-width:1200px){.sitenav.b2b-sitenav .site-navigation a.currentParent,.sitenav.b2b-sitenav .site-navigation a.current{color:green;text-decoration:none}
+}
+.cmp-link a{text-decoration:none}
+.accordion.gd-accordian .gd-faqs-list__faq a span{font-size:22px;font-weight:600;text-decoration:underline;padding-bottom:20px;color:green}
+.accordion.gd-accordian .gd-faqs-list__faq a:hover span,.accordion.gd-accordian .gd-faqs-list__faq a:focus span,.accordion.gd-accordian .gd-faqs-list__faq a:active span{color:black}
+.for-people-2 .gddarkgrey-backgroundColor a,.gddarkgrey-backgroundColor a:hover{color:#4fc143}
+.gd-static-content-taxes__1 .gd-content-card__wrap p.gd-content-card__date>span,.gd-static-content-taxes__2 .gd-content-card__wrap p.gd-content-card__date>span,.gd-static-content-taxes__3 .gd-content-card__wrap p.gd-content-card__date>span{color:#000}
